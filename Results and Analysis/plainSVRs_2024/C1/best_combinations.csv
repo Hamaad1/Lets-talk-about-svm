@@ -1,0 +1,3 @@
+Dataset,C,Kernel,Gamma,Epsilon,Tolerance,Mean Error,Standard Deviation
+DSI2,1.0,rbf,gscale,0.001,0.001,9.319,0.05
+MAN2,1.0,rbf,gscale,0.001,0.001,2.354,0.015

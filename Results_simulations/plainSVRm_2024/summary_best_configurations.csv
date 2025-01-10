@@ -1,0 +1,10 @@
+Dataset,Best C,Best kernel,Best degree,Best gamma,Best Epsilon,Best Split,Best Beta,Best tol,Validation Error,Testing Error
+MAN2,1.0,rbf,,scale,0.001,0.1,,0.001,1.61747,2.26085
+DSI2,1.0,linear,,scale,0.01,0.2,,0.01,6.24457,6.87755
+DSI2,1.0,linear,,scale,0.01,0.15,,0.001,6.14747,7.00078
+MAN2,1.0,rbf,,scale,0.01,0.05,,0.01,1.61813,2.23926
+LIB1,1.0,rbf,,auto,0.001,0.05,,0.01,2.89595,3.20579
+LIB2,1.0,linear,,scale,0.01,0.15,,0.01,2.33616,3.75948
+LIB1,1.0,rbf,,auto,0.01,0.2,,0.001,3.21538,3.30002
+LIB2,1.0,linear,,scale,0.01,0.25,,0.01,2.28018,3.79073
+MAN1,1.0,rbf,,scale,0.001,0.2,,0.01,2.30316,2.56735

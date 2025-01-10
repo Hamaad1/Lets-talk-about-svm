@@ -1,0 +1,240 @@
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.0001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.001, None, None, None) | Error: SVR.__init__() takes 1 positional argument but 9 were given
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.001, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.25075, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.5005, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 0.75025, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.001, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.0001, None, None, None) | Error: 'tuple' object has no attribute 'append'
+ERROR:root:Failed for params: (0.05, 'linear', 1.0, 0.01, 0.001, None, None, None) | Error: 'tuple' object has no attribute 'append'

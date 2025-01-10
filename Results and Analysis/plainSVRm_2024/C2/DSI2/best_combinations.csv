@@ -1,0 +1,2 @@
+Dataset,C,Kernel,Gamma,Epsilon,Tolerance,Mean Error,Standard Deviation
+DSI2,1.0,linear,N/A,tol0.001,scaled,6.964,0.086
